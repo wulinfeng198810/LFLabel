@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LFLabel_Example' do
+  pod 'LFLabel', :path => '../'
+
+  target 'LFLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
