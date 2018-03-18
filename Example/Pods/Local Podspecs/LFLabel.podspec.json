@@ -1,0 +1,22 @@
+{
+  "name": "LFLabel",
+  "version": "0.1.0",
+  "summary": "A short description of LFLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wulinfeng198810/LFLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wulinfeng198810": "1486634154@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wulinfeng198810/LFLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LFLabel/Classes/**/*"
+}

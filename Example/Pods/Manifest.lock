@@ -1,0 +1,16 @@
+PODS:
+  - LFLabel (0.1.0)
+
+DEPENDENCIES:
+  - LFLabel (from `../`)
+
+EXTERNAL SOURCES:
+  LFLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LFLabel: 1627d55d88b48e0495f6ec301dfeafa2861857e2
+
+PODFILE CHECKSUM: e9760c5945bcc95d585b3f2cb496652e97203635
+
+COCOAPODS: 1.2.0

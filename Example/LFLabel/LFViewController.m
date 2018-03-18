@@ -7,6 +7,7 @@
 //
 
 #import "LFViewController.h"
+#import <LFLabel/LFLabel-umbrella.h>
 
 @interface LFViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    LFLabel *l = [[LFLabel alloc] initWithFrame:CGRectMake(0, 0, 100, 200)];
+    [self.view addSubview:l];
 }
 
 - (void)didReceiveMemoryWarning

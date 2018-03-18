@@ -1,0 +1,6 @@
+framework module LFLabel {
+  umbrella header "LFLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
